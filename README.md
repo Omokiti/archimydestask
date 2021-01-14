@@ -1,3 +1,17 @@
+
+## Delivery
+
+Implemented only the user story i.e login and create user
+
+## Technology
+  
+  Hosted on Netlify
+
+## Time
+
+Not Enough time to Implement both admin and user story
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
