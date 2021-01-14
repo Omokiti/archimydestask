@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    }
+    
+    h2{
+    text-align:center;
+    }
+    body{
+    background:#F5F5F5;
+    }
+    input,select{
+    width:80%;
+    height:50px;
+    background:#808080;
+    margin:20px;
+    }
+    textarea{
+    margin:1.25rem;
+    background:#808080;
+    }
+    label{
+    margin-left:20px;
+    }
+    form{
+    background:#ffffff;
+    width:34.375rem;
+    height:25rem;
+    }
+  ::placeholder{
+   color:#000000;
+  }
+    .form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:40px;
+    
+    }
+    .create{
+    height:100%;
+    }
+    button{
+    background:#000000;
+    width:80%;
+    height:40px;
+    color:#ffffff;
+    margin:20px;
+    }
+
+    @media (max-width: 500px) {
+      body {
+        font-size: 1.8rem;
+      }
+      html {
+        font-size: 50%;
+      }
+     .form{
+      flex-wrap:wrap-reverse;
+     }
+     textarea{
+      width:80%;
+      margin:15px;
+     }
+    }

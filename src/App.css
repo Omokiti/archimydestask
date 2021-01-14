@@ -1,0 +1,16 @@
+*{
+box-sizing: border-box;
+}
+
+body{
+background:blue;
+}
+
+input{
+width:100%;
+height:50px;
+}
+
+form{
+background:#ffffff;
+}
